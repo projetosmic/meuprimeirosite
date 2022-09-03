@@ -1,7 +1,19 @@
+html{
+    scroll-behavior: smooth;
+}
 body{
     background-color:#90EE90;
+    
+    }
 
-}
+    header{
+    background-color:#8FBC8F
+    
+        
+    }
+        
+    
+
 
 img{
     width: 20%;
@@ -31,7 +43,22 @@ p{
     width: 50%;
     float: left;
 }
-footer {clear: both;
-    
+footer{
+clear: both;
+background-color:#8FBC8F;
+padding-top: 1%;
+padding-bottom: 2%;
 }
-.videovogue{text-align: center;}
+
+.videovogue{
+    text-align: center;
+}
+
+footer p{
+    text-align: center;
+    font-family:  'Cormorant Garamond', serif; 
+}
+
+.menu{
+    text-align: center;
+}
